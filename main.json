@@ -1,0 +1,17 @@
+{
+  "name": "taller",
+  "version": "0.1.0",
+  "description": "esta es una aplicacion ejemplo ",
+  "main": "taller1.js",
+  "scripts": {
+    "start": "tsx main.ts"
+  },
+  "author": "dians",
+  "license": "ISC",
+  "keywords": [
+    "ç"
+  ],
+  "devDependencies": {
+    "tsx": "^4.19.1"
+  }
+}
